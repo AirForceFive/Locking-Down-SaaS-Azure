@@ -54,7 +54,3 @@ After the implementation of Azure Private Link:
 ## Conclusion
 
 Azure Private Link offers enhanced security by ensuring that access to Azure service instances remains within the Microsoft backbone network. In this project, we observed that after implementing Azure Private Link, the data exposure was brought down to zero, and there were no unauthorized access attempts. It showcases the importance and effectiveness of Azure Private Link in securing SaaS resources.
-
----
-
-Note: The above is a mock project, and the metrics, images, and services are illustrative. If you're looking to implement this in a real-world scenario, you'd need to adapt the content and metrics based on actual measurements and infrastructure configurations.
