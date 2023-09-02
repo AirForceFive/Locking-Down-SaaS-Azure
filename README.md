@@ -1,7 +1,3 @@
-Sure! Here's a project formatted similarly to the one you provided, focusing on the configuration of Azure's Private Link to lock down Software as a Service (SaaS) resources:
-
----
-
 # Locking Down SaaS Resources using Azure Private Link
 ![Azure Private Link](https://i.imgur.com/ZWxe03e.jpg)
 
