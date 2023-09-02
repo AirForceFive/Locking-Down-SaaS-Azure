@@ -1,5 +1,4 @@
 # Locking Down SaaS Resources using Azure Private Link
-![Azure Private Link](https://i.imgur.com/ZWxe03e.jpg)
 
 ## Introduction
 
